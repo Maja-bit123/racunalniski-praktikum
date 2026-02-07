@@ -1,3 +1,5 @@
+maja-bit123.github.io
+
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
